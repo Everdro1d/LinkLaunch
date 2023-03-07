@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LinkLaunch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LinkLaunch_jar</output-path>
+    <root id="archive" name="LinkLaunch.jar">
+      <element id="module-output" name="LinkLaunch" />
+    </root>
+  </artifact>
+</component>
